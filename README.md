@@ -74,11 +74,12 @@ Sistema de control de flotas con backend en NestJS, app móvil y panel administr
 
 <div align="center">
 
-<img alt="snake animation" src="https://raw.githubusercontent.com/olarthedev/olarthedev/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://github-readme-stats.vercel.app/api?username=olarthedev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-streak-stats.demolab.com/?user=olarthedev&theme=tokyonight&hide_border=true" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olarthedev&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
 
 </div>
-
-<br/>
 
 ## 🏆 Trofeos
 
@@ -94,13 +95,9 @@ Sistema de control de flotas con backend en NestJS, app móvil y panel administr
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/olarthedev/olarthedev/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img alt="snake animation" src="https://raw.githubusercontent.com/olarthedev/olarthedev/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
-
-> ⚠️ El snake animado necesita un pequeño setup de un GitHub Action (te explico abajo cómo activarlo — solo se hace una vez).
-
-<br/>
 
 <div align="center">
 
