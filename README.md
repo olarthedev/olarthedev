@@ -62,17 +62,18 @@ Sistema de control de flotas con backend en NestJS, app móvil y panel administr
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olarthedev&theme=tokyonight" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olarthedev&theme=github_dark" width="100%"/>
 
-<img src="https://streak-stats.demolab.com/?user=olarthedev&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=olarthedev&theme=tokyonight" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=olarthedev&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=6E7681" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=olarthedev&theme=github_dark" width="49%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olarthedev&theme=tokyonight" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=olarthedev&theme=tokyonight" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olarthedev&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=olarthedev&theme=github_dark" width="49%"/>
 
 </div>
 
 <br/>
+
 
 
 ## 🏆 Trofeos
