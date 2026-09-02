@@ -74,10 +74,11 @@ Sistema de control de flotas con backend en NestJS, app móvil y panel administr
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=olarthedev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-streak-stats.demolab.com/?user=olarthedev&theme=tokyonight&hide_border=true" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olarthedev&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/olarthedev/olarthedev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/olarthedev/olarthedev/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/olarthedev/olarthedev/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
