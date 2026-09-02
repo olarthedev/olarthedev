@@ -74,13 +74,7 @@ Sistema de control de flotas con backend en NestJS, app móvil y panel administr
 
 <br/>
 
-## ⏰ Cuándo programo
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=olarthedev&theme=tokyonight&utcOffset=-5" width="60%"/>
-
-</div>
 ## 🏆 Trofeos
 
 <div align="center">
