@@ -44,18 +44,6 @@ const cristian = {
 
 ## 🚀 Proyectos destacados
 
-<details open>
-<summary><b>🚛 Carga-connect</b> — click para expandir</summary>
-<br/>
-
-Plataforma que conecta transportistas y clientes de carga, construida en TypeScript.
-
-**Stack:** TypeScript · Node.js · PostgreSQL
-
-[![Ver repositorio](https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/olarthedev/Carga-connect)
-
-</details>
-
 <details>
 <summary><b>🚚 control-flotas</b> — click para expandir</summary>
 <br/>
