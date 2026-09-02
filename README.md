@@ -62,13 +62,25 @@ Sistema de control de flotas con backend en NestJS, app móvil y panel administr
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=olarthedev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-streak-stats.demolab.com/?user=olarthedev&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olarthedev&theme=tokyonight" width="100%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olarthedev&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=olarthedev&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=olarthedev&theme=tokyonight" width="49%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olarthedev&theme=tokyonight" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=olarthedev&theme=tokyonight" width="49%"/>
 
 </div>
 
+<br/>
+
+## ⏰ Cuándo programo
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=olarthedev&theme=tokyonight&utcOffset=-5" width="60%"/>
+
+</div>
 ## 🏆 Trofeos
 
 <div align="center">
