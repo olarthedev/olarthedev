@@ -28,7 +28,7 @@ const cristian = {
   currentlyLearning: "Arquitectura de microservicios",
   funFact: "Me obsesiona el código limpio 🧹",
 };
-```
+```    
 
 <br/>
 
