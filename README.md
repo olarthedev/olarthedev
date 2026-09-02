@@ -2,14 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6FF&height=220&section=header&text=Cristian%20Olarte&fontSize=48&fontColor=ffffff&desc=Fullstack%20Developer%20%7C%20TypeScript%20%26%20NestJS&descSize=18&descAlign=50&descAlignY=68&animation=fadeIn" width="100%"/>
 
-<a href="https://tu-portafolio.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Construyendo+soluciones+para+log%C3%ADstica;Especialista+en+TypeScript+%2B+NestJS;Del+backend+al+frontend%2C+de+punta+a+punta;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Construyendo+soluciones+para+log%C3%ADstica;Especialista+en+TypeScript+%2B+NestJS;Del+backend+al+frontend%2C+de+punta+a+punta;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tu-portafolio.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
-[![Email](https://img.shields.io/badge/-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hola@tuemail.com)
-[![WhatsApp](https://img.shields.io/badge/-WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/57XXXXXXXXXX)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristianolarte/)
+[![Email](https://img.shields.io/badge/-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olarthedev@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573133314976)
 
 <img src="https://komarev.com/ghpvc/?username=olarthedev&label=Perfil%20visto&color=6C63FF&style=for-the-badge" alt="visitor count"/>
 
